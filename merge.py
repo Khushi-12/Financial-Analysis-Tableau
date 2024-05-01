@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 import os
 
-os.makedirs('data2/', exist_ok=True)
+os.makedirs('data3', exist_ok=True)
 
 data_folder = "data/"
 
