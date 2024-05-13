@@ -3,10 +3,10 @@ A Tableau dashboard to analyze financial trends in US based industries.
 
 This project involves creating a comprehensive financial dashboard using Tableau. The dashboard provides insights into various financial metrics across different industries over the years. The main focus is on comparing key performance indicators (KPIs) such as growth, return on equity (ROE), gross margin, net margin, and other relevant metrics.
 
+![Video demo](./assets/financialdashboard.gif)
+
 ![](./assets/financialdashboard1.png)
 ![](./assets/financialdashboard2.png)
-
-![Video demo](./assets/financialdashboard.mov)
 
 ## Description
 
@@ -46,7 +46,7 @@ The dashboard is divided into several sections, each highlighting different aspe
 
 The project includes the following files:
 - Tableau workbook with the dashboard.
-- Data sources used for the analysis.
+- Data sources used for the analysis. Executed SQL queries for advanced data processing: data cleaning, wrangling, and merging tables to prepare 5-year financial data. Check [Processing.ipynb](Processing.ipynb). Final data is in [data_final/financialdata_fina.xlsx](./data_final/financialdata_final.xlsx). We collected data from https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datacurrent.html.
 - README file (this document).
 
 ## Usage
