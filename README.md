@@ -1,9 +1,12 @@
 # Financial-Analysis-Tableau
 A Tableau dashboard to analyze financial trends in US based industries.
 
-# Financial Dashboard Project
-
 This project involves creating a comprehensive financial dashboard using Tableau. The dashboard provides insights into various financial metrics across different industries over the years. The main focus is on comparing key performance indicators (KPIs) such as growth, return on equity (ROE), gross margin, net margin, and other relevant metrics.
+
+![](./assets/financialdashboard1.png)
+![](./assets/financialdashboard2.png)
+
+![Video demo](./assets/financialdashboard.mov)
 
 ## Description
 
